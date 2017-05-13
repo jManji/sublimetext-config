@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"GitGutter",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Themr"
+	]
+}
