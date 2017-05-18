@@ -1,8 +1,12 @@
 {
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
-	"ignored_packages":
-	[
-		"Vintage"
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+    "font_size": 12,
+    "ignored_packages":
+    [
+        "AutoPEP8",
+        "Line Endings Unify",
+        "Vintage"
 	],
-	"theme": "predawn.sublime-theme"
+    "theme": "predawn-DEV.sublime-theme",
+    "translate_tabs_to_spaces": true,
 }
